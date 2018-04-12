@@ -7,7 +7,7 @@ public class GlobalConstants {
 
     public static final String WEBSITE_URL = "http://automationpractice.com/index.php";
 
-    public static final String EMAIL = "pankhuri.mehrotra24+test@gmail.com";
+    public static final String EMAIL = "pankhuri.mehrotra24+test1@gmail.com";
 
     public static final String PASSWORD = "NewAccount@123";
 
