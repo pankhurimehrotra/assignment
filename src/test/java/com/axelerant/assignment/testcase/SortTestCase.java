@@ -22,7 +22,7 @@ public class SortTestCase extends BaseTestCase {
             System.out.println("The results are sorted correctly");
         } catch (Exception e) {
             e.printStackTrace( System.out );
-            Assert.fail( "Exception Occurred While Testing: testPlaceOrderPayByBank: " + e.getMessage() );
+            Assert.fail( "Exception Occurred While Testing: testSortingByPrice: " + e.getMessage() );
         }
     }
 }
