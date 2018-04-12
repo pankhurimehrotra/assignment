@@ -21,7 +21,7 @@ public class NewsLetterTestCase extends BaseTestCase {
             Assert.assertEquals(message, "Newsletter : You have successfully subscribed to this newsletter.");
         } catch (Exception e) {
             e.printStackTrace( System.out );
-            Assert.fail( "Exception Occurred While Testing: testPlaceOrderPayByBank: " + e.getMessage() );
+            Assert.fail( "Exception Occurred While Testing: testNewsletterSubscription: " + e.getMessage() );
         }
     }
 }
